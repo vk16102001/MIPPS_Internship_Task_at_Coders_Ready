@@ -1,4 +1,10 @@
 # MIIPS-TASKS
+TASK-01
+- Perform Exploratory Data Analysis on Database 'Global Terrorism'.
+- As a security or database analyst try to find out hot zones of terrorism.
+- You can use Python Tool to perform this analysis.
+
+
 Monthly Internship Programm for Professionals (MIIPS) by Coders Ready
 1. About the dataset:
 Global Terrorism Database is maintained by the National Consortium for the Study of Terrorism and Responses to Terrorism (START) at the University of Maryland.
@@ -30,19 +36,21 @@ Information about data stored in fields mainly used in this EDA[1]:
 
 
 2. Methodology:
-In this project we are trying to trace hot zones of terrorism and other security issues with the help of Exploratory Data Analysis (EDA).
-Exploratory Data Analysis (EDA): EDA is a technique that data professionals can be use to understand a datasets before they start to model it.
+- In this project we are trying to trace hot zones of terrorism and other security issues with the help of Exploratory Data Analysis (EDA).
+
+- Exploratory Data Analysis (EDA): 
+EDA is a technique that data professionals can be use to understand a datasets before they start to model it.
 
 
 3. Conclusion:
-Attacks were low during the 31st and high during the 15th and 1st. Other than these 3 days, every day has an equal contribution to global terrorism.
-Their are alomst equal number of terrorist attacks every month throughout the years.
-Highest number of attacks were noted in 2014. Number of attacks were increasing in inconsistent manner from 1970. Even though number of terrorist attacks per year decresing from 2014, they are still maximum if compared to numbers from 1970 onwards.
-Most of the attacks were attacked through explosives and then through firearms.
-Private properties and citizens are likely to be targeted by terrorists followed by the military, police and business.
-Most of the attacks were through either Bombing or Explosion.
-The Middle East& North Africa leads 1st among all the regions and then South Asia takes 2nd place.
-Iraq (Hot zone) has the highest number of terrorist attacks, way greater than all other countries. Followed by Pakistan, Afghanistan and India.
+- Attacks were low during the 31st and high during the 15th and 1st. Other than these 3 days, every day has an equal contribution to global terrorism.
+- Their are alomst equal number of terrorist attacks every month throughout the years.
+- Highest number of attacks were noted in 2014. Number of attacks were increasing in inconsistent manner from 1970. Even though number of terrorist attacks per year decresing from 2014, they are still maximum if compared to numbers from 1970 onwards.
+- Most of the attacks were attacked through explosives and then through firearms.
+- Private properties and citizens are likely to be targeted by terrorists followed by the military, police and business.
+- Most of the attacks were through either Bombing or Explosion.
+- The Middle East& North Africa leads 1st among all the regions and then South Asia takes 2nd place.
+- Iraq (Hot zone) has the highest number of terrorist attacks, way greater than all other countries. Followed by Pakistan, Afghanistan and India.
 
 
 
