@@ -41,9 +41,13 @@ Information about data stored in fields mainly used in this EDA[1]:
 - Exploratory Data Analysis (EDA): 
 EDA is a technique that data professionals can be use to understand a datasets before they start to model it.
 
+Q.01 As a security/defense analyst, try to find out the hot zones of terrorism.
+- Around 71% of around 190k terror attacks occurred in the continents of Asia and Africa making them HOT ZONES according to Regions.
+- Also, 4 of the top 5 countries with the most terrorist attacks (Iraq, Pakistan, Afghanistan, India) belong to the continent of Asia (Colombia is in South America).
+Top 10 countries (Iraq, Pakistan, Afghanistan, India, Colombia, Philippines, Peru, United Kingdom, El Savador and Somalia) contributed to around 55% of the all the terror attacks that happened globally from 1970 to 2018, making them HOT ZONES according to Countries.
 
 3. Conclusion:
-- Attacks were low during the 31st and high during the 15th and 1st. Other than these 3 days, every day has an equal contribution to global terrorism.
+-  Attacks were low during the 31st and high during the 15th and 1st. Other than these 3 days, every day has an equal contribution to global terrorism.
 - Their are alomst equal number of terrorist attacks every month throughout the years.
 - Highest number of attacks were noted in 2014. Number of attacks were increasing in inconsistent manner from 1970. Even though number of terrorist attacks per year decresing from 2014, they are still maximum if compared to numbers from 1970 onwards.
 - Most of the attacks were attacked through explosives and then through firearms.
@@ -51,12 +55,12 @@ EDA is a technique that data professionals can be use to understand a datasets b
 - Most of the attacks were through either Bombing or Explosion.
 - The Middle East& North Africa leads 1st among all the regions and then South Asia takes 2nd place.
 - Iraq (Hot zone) has the highest number of terrorist attacks, way greater than all other countries. Followed by Pakistan, Afghanistan and India.
-
+- By reducing access to dangerous weapons,providing more security over countries, strengthening security across borders and by taking measures on increased immigration, Global Terrorism can be reduced to certain level.
 
 
 4. References:
 1- https://www.kaggle.com/datasets/muhammetvarl/global-terrorism
-
+2- https://medium.com/swlh/analysis-of-global-terrorism-dataset-888292e01873
 
 
 Thank You!!
