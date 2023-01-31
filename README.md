@@ -1,12 +1,12 @@
 # MIIPS-TASKS
-TASK-01
+## TASK-01
 - Perform Exploratory Data Analysis on Database 'Global Terrorism'.
 - As a security or database analyst try to find out hot zones of terrorism.
 - You can use Python Tool to perform this analysis.
 
 
-Monthly Internship Programm for Professionals (MIIPS) by Coders Ready
-1. About the dataset:
+## Monthly Internship Programm for Professionals (MIIPS) by Coders Ready
+### 1. About the dataset:
 Global Terrorism Database is maintained by the National Consortium for the Study of Terrorism and Responses to Terrorism (START) at the University of Maryland.
 
 Information about data stored in fields mainly used in this EDA[1]:
@@ -35,18 +35,18 @@ Information about data stored in fields mainly used in this EDA[1]:
 12) weaptype1_txt: Names of weaptype1.
 
 
-2. Methodology:
+### 2. Methodology:
 - In this project we are trying to trace hot zones of terrorism and other security issues with the help of Exploratory Data Analysis (EDA).
 
 - Exploratory Data Analysis (EDA): 
 EDA is a technique that data professionals can be use to understand a datasets before they start to model it.
 
-Q.01 As a security/defense analyst, try to find out the hot zones of terrorism.
+### Q.01 As a security/defense analyst, try to find out the hot zones of terrorism.
 - Around 71% of around 190k terror attacks occurred in the continents of Asia and Africa making them HOT ZONES according to Regions.
 - Also, 4 of the top 5 countries with the most terrorist attacks (Iraq, Pakistan, Afghanistan, India) belong to the continent of Asia (Colombia is in South America).
 Top 10 countries (Iraq, Pakistan, Afghanistan, India, Colombia, Philippines, Peru, United Kingdom, El Savador and Somalia) contributed to around 55% of the all the terror attacks that happened globally from 1970 to 2018, making them HOT ZONES according to Countries.
 
-3. Conclusion:
+### 3. Conclusion:
 -  Attacks were low during the 31st and high during the 15th and 1st. Other than these 3 days, every day has an equal contribution to global terrorism.
 - Their are alomst equal number of terrorist attacks every month throughout the years.
 - Highest number of attacks were noted in 2014. Number of attacks were increasing in inconsistent manner from 1970. Even though number of terrorist attacks per year decresing from 2014, they are still maximum if compared to numbers from 1970 onwards.
@@ -58,9 +58,12 @@ Top 10 countries (Iraq, Pakistan, Afghanistan, India, Colombia, Philippines, Per
 - By reducing access to dangerous weapons,providing more security over countries, strengthening security across borders and by taking measures on increased immigration, Global Terrorism can be reduced to certain level.
 
 
-4. References:
+### 4. References:
 1- https://www.kaggle.com/datasets/muhammetvarl/global-terrorism
 2- https://medium.com/swlh/analysis-of-global-terrorism-dataset-888292e01873
 
+### PPT Presentation-
+https://drive.google.com/file/d/15NDrO8O6Kng_mODMLZebHbA2iOQXWaKw/view?usp=sharing
 
-Thank You!!
+
+## Thank You!!
