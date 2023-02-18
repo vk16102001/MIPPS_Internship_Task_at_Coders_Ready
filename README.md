@@ -47,23 +47,18 @@ EDA is a technique that data professionals can be use to understand a datasets b
 Top 10 countries (Iraq, Pakistan, Afghanistan, India, Colombia, Philippines, Peru, United Kingdom, El Savador and Somalia) contributed to around 55% of the all the terror attacks that happened globally from 1970 to 2018, making them HOT ZONES according to Countries.
 
 ### 3. Conclusion:
--  Attacks were low during the 31st and high during the 15th and 1st. Other than these 3 days, every day has an equal contribution to global terrorism.
-- Their are alomst equal number of terrorist attacks every month throughout the years.
-- Highest number of attacks were noted in 2014. Number of attacks were increasing in inconsistent manner from 1970. Even though number of terrorist attacks per year decresing from 2014, they are still maximum if compared to numbers from 1970 onwards.
-- Most of the attacks were attacked through explosives and then through firearms.
-- Private properties and citizens are likely to be targeted by terrorists followed by the military, police and business.
-- Most of the attacks were through either Bombing or Explosion.
-- The Middle East& North Africa leads 1st among all the regions and then South Asia takes 2nd place.
-- Iraq (Hot zone) has the highest number of terrorist attacks, way greater than all other countries. Followed by Pakistan, Afghanistan and India.
-- By reducing access to dangerous weapons,providing more security over countries, strengthening security across borders and by taking measures on increased immigration, Global Terrorism can be reduced to certain level.
+- Incresing security in public places and private properties and building strong and highly trained military and police forces can reduce hazardous from terrorism significantly.
+- Controlling access to Explosives and firearms all over the world will also reduce Global Terrorism to certain level.
+- Strengthening security across borders and by taking measures on increased immigration in HOT ZONES will also help in controlling Global Terrorism.
+- Even though attcks are decresing, number are still high that's why this topic should address globally.
 
 
 ### 4. References:
 1- https://www.kaggle.com/datasets/muhammetvarl/global-terrorism
 2- https://medium.com/swlh/analysis-of-global-terrorism-dataset-888292e01873
 
-### PPT Presentation-
-https://drive.google.com/file/d/15NDrO8O6Kng_mODMLZebHbA2iOQXWaKw/view?usp=sharing
+### Video Explanation:
+https://drive.google.com/file/d/1UooIWUp70C2CIkNwfquHYYzfhe95BotK/view?usp=sharing
 
 
 ## Thank You!!
